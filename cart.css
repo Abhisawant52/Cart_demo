@@ -118,5 +118,13 @@ a{
 		width:200px;
 		height:170px;
 	}
-	
+	.page-link{
+		line-height:10px!important;
+		width:20px!important;
+	}
+	.page-item input{
+		line-height:13px!important;
+		padding:1px;
+		font-size:15px;
+	}
 }
