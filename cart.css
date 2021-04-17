@@ -115,7 +115,7 @@ a{
 		font-size:0.8rem!important;
 	}
 	.item img {
-		width:200px;
+		width:180px;
 		height:170px;
 	}
 	.page-link{
@@ -124,7 +124,7 @@ a{
 	}
 	.page-item input{
 		line-height:12px!important;
-		padding:1px;
+		padding:2px;
 		font-size:15px;
 	}
 }
