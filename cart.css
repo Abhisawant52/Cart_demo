@@ -115,11 +115,11 @@ a{
 		font-size:0.8rem!important;
 	}
 	.item img {
-		width:180px;
+		width:150px;
 		height:170px;
 	}
 	.page-link{
-		line-height:10px!important;
+		line-height:9px!important;
 		width:20px!important;
 	}
 	.page-item input{
