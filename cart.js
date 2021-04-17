@@ -49,6 +49,7 @@ let error_trw = document.getElementById('error_trw');
 if(discountCode.value === 'ABHI50'){
 let newtotalamt = totalamtcurr - 50;
 total_cart_amt.innerHTML = newtotalamt;
+	error_trw.style.color = 'blue';
 error_trw.innerHTML = "Hurray! code is valid";
 }else{	
 error_trw.style.color = 'red';
