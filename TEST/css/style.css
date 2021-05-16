@@ -1,0 +1,91 @@
+*{
+margin:0;
+padding:0;
+}
+/*PICTURES End*/
+.Tab-pic{
+	display:grid;
+	grid-template-columns:1fr 1fr;
+	justify-content:center;
+	align-items:center;
+}
+img{
+	
+	margin:10%;
+	height:70vh;
+	width:;
+}
+.Tab-pic .content{
+margin-left:5%;
+}
+.Tab-pic .content h6{
+	font-family: 'Crete Round',Georgia,'Times New Roman',serif;
+	color:black;
+	font-size:18px;
+	text-shadow: 0px 1px;
+	font-style:italic;
+}
+/*footer design*/
+.social-media{
+background-color:#F0F0F0;
+padding:2% 4%;	
+}
+
+.media-icons{
+	font-size:;
+	color:#505050;
+	margin-right:3%;
+}
+
+footer{
+background-color:#f9f9f9;
+padding:4% 3%;
+color:#686868;
+border-top:5px solid white;
+border-bottom:8px solid black;
+}
+.detail-footer{
+	//border:1px solid black;
+	display:flex;
+	
+}
+.footer-tab{
+	margin-right:12%;
+	width:auto;
+	font-size:18px;
+	font-weight:600;
+	color:black;
+}
+.footer-tab p{
+	font-size:15px;
+	color:#686868;
+	padding-top:5%;
+}
+.footer-links{
+	cursor:pointer;
+	display:inline;
+	font-size:14px;
+}
+.links-after{
+	padding:0 3px;
+	font-size:12px;
+	border-right:2px solid #A9A9A9;
+}
+
+.footer-logo{
+	position:absolute;
+	top:200%;
+	left:-65px;
+	font-weight:bold;
+	font-size:2.2vw;
+	letter-spacing:1px;
+	margin-left:96%;
+	margin-top:8%;
+	color:#484848;
+	transform:rotate(270deg);
+}
+
+.copy-rights{
+	margin-top:2%;
+	font-size:12px;
+}
