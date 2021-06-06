@@ -115,7 +115,7 @@ a{
 		font-size:0.8rem!important;
 	}
 	.item img {
-		width:200px;
+		width:150px!important;
 		height:170px;
 	}
 	.page-link{
